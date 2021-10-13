@@ -18,6 +18,8 @@
 
 ![](adventure-videogame.md){.figure}
 
+![](canon-cat.md){.figure}
+
 ![](squeak.md){.figure}
 
 ## Πέρα από τον υπολογισμό 
