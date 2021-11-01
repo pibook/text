@@ -12,6 +12,14 @@
 
 ![](card-puncher.md){.figure}
 
+![](interactive-whiteboard.md){.figure}
+
+![](liza-bootstrapping.md){.figure}
+
 ## Τεχνολογικά και κοινωνικά συστήματα 
 
+![](logo-robot.md){.figure}
+
 ![](computer-lab.md){.figure}
+
+![](hackathon.md){.figure}
