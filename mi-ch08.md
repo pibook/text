@@ -1,6 +1,6 @@
 # Τεχνολογία 
 
-![](kay-cs.md){.epigraph}
+![](kay-software.md){.epigraph}
 
 ![](abs-technology.md){.abstract}
 
