@@ -2,7 +2,7 @@
 
 ![](lanier-instrument.md){.epigraph}
 
-![](abs-forms.md){.abstract}
+![](abs-forms.md){.include}
 
 ## Μορφολογία 
 
@@ -102,4 +102,15 @@
 
 ![](bbc-micro.md){.figure}
 
+## Η περίπτωση του UNIX
+
+![](cs-unix.md){.include}
+
+## Η περίπτωση της κονσόλας βιντεοπαιχνιδιών
+
+![](cs-consoles.md){.include}
+
+## Σύντομη βιογραφία του Jaron Lanier
+
+![](bio-lanier.md){.include}
 
