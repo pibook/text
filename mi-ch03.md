@@ -134,7 +134,7 @@ O σχεδιασμός του υπολογιστή και ειδικά των σ
 
 ![](cs-mouse.md){.include}
 
-## Σύντομη βιογραφία του Lary Tesler
+## Σύντομη βιογραφία του Larry Tesler
 
 ![](bio-tesler.md){.include}
 
