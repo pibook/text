@@ -110,7 +110,7 @@
 
 ![](cs-consoles.md){.include}
 
-## Σύντομη βιογραφία του Jaron Lanier
+## Σύντομη βιογραφία του Jef Raskin 
 
-![](bio-lanier.md){.include}
+![](bio-raskin.md){.include}
 

@@ -2,7 +2,7 @@
 
 ![](kay-software.md){.epigraph}
 
-![](abs-technology.md){.abstract}
+![](abs-technology.md){.include}
 
 ## Τεχνολογικά προϊόντα 
 
@@ -75,3 +75,16 @@
 ![](computer-lab.md){.figure}
 
 ![](hackathon.md){.figure}
+
+## Η περίπτωση του Xerox Alto
+
+![](cs-alto.md){.include}
+
+## Η περίπτωση του ερευνητικού κέντρου Xerox PARC
+
+![](cs-parc.md){.include}
+
+## Σύντομη βιογραφία του Alan Kay
+
+![](bio-kay.md){.include}
+
