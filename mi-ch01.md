@@ -2,7 +2,7 @@
 
 ![](victor-definition.md){.epigraph}
 
-![](abs-definition.md){.abstract}
+![](abs-definition.md){.include}
 
 ## Ο ρόλος του προγραμματισμού της διάδρασης
 
