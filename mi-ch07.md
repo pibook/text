@@ -58,7 +58,6 @@
 
 ![](cpm.md){.figure}
 
-![](altair-teletype.md){.figure}
 
 ![](apple-i-computer.md){.figure}
 
