@@ -195,21 +195,3 @@ O σχεδιασμός του υπολογιστή και ειδικά των σ
 ![](extras-ch03.txt){.include}
 
 
-![](teletype.md){.figure}
-
-![](line-printer.md){.figure}
-
-![](desktop.md){.figure}
-
-![](igoefinger.md){.figure}
-
-![](rand-tablet.md){.figure}
-
-
-![](smalltalk-scrollbar-left.md){.figure}
-
-![](superpaint-toolbox.md){.figure}
-
-![](knuth-fonts.md){.figure}
-
-![](app.md){.figure}
