@@ -1,5 +1,9 @@
 # Παράρτημα: Εικόνες
 
+![](touch-develop.md){.figure}
+
+![](wearable.md){.figure}
+
 ![](double-click.md){.figure}
 
 ![](gem2.md){.figure}
@@ -44,4 +48,12 @@
 
 ![](xerox-gypsy.md){.figure}
 
-![](smalltalk-browser.md){.figure}
+![](google-now.md){.figure}
+
+![](hipmunk.md){.figure}
+
+![](google-search-weather.md){.figure}
+
+![](vpl-data-glove.md){.figure}
+
+![](vpl-data-suit.md){.figure}
