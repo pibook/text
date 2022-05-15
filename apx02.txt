@@ -1,5 +1,9 @@
 # Παράρτημα: Εικόνες
 
+![](double-click.md){.figure}
+
+![](gem2.md){.figure}
+
 ![](notifications.md){.figure}
 
 ![](menu-bar-extras.md){.figure}
