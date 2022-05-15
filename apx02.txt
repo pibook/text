@@ -1,5 +1,9 @@
 # Παράρτημα: Εικόνες
 
+![](notifications.md){.figure}
+
+![](menu-bar-extras.md){.figure}
+
 ![](windows1.md){.figure}
 
 ![](windows10.md){.figure}
