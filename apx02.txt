@@ -1,5 +1,7 @@
 # Παράρτημα: Εικόνες
 
+![](gem2.md){.figure}
+
 ![](touch-develop.md){.figure}
 
 ![](wearable.md){.figure}
