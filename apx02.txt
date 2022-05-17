@@ -6,7 +6,6 @@
 
 ![](reactivision-simulator.md){.figure}
 
-![](unreal-blueprints.md){.figure}
 
 ![](gem2.md){.figure}
 
