@@ -1,5 +1,7 @@
 # Παράρτημα: Εικόνες
 
+![](ical.md){.figure}
+
 ![](cad.md){.figure}
 
 ![](reactivision-simulator.md){.figure}
