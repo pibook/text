@@ -1,5 +1,7 @@
 # Παράρτημα: Εικόνες
 
+![](cad.md){.figure}
+
 ![](reactivision-simulator.md){.figure}
 
 ![](unreal-blueprints.md){.figure}
