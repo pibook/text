@@ -1,5 +1,9 @@
 # Παράρτημα: Εικόνες
 
+![](xanadu-sketch.md){.figure}
+
+![](xanadu-mockup.md){.figure}
+
 ![](ical.md){.figure}
 
 ![](cad.md){.figure}
