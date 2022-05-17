@@ -1,8 +1,16 @@
 # Παράρτημα: Εικόνες
 
-![](xanadu-sketch.md){.figure}
+![](hypercard-notes.md){.figure}
 
-![](xanadu-mockup.md){.figure}
+![](home-programming.md){.figure}
+
+![](math-blaster.md){.figure}
+
+![](rockys-boots.md){.figure}
+
+![](plato4.md){.figure}
+
+![](bbc-micro.md){.figure}
 
 ![](ical.md){.figure}
 
@@ -37,14 +45,16 @@
 
 ![](personas.md){.figure}
 
-![](office-schematic.md){.figure}
+![](icons-document.md){.figure}
 
+![](wysiwyg.md){.figure}
+
+![](superpaint-screens.md){.figure}
 
 ![](teletype.md){.figure}
 
 ![](line-printer.md){.figure}
 
-![](desktop.md){.figure}
 
 ![](igoefinger.md){.figure}
 
@@ -59,7 +69,6 @@
 
 ![](app.md){.figure}
 
-![](xerox-gypsy.md){.figure}
 
 ![](google-now.md){.figure}
 
