@@ -1,5 +1,17 @@
 # Παράρτημα: Εικόνες
 
+![](lilith-desktop.md){.figure}
+
+![](oberon.md){.figure}
+
+![](cpm.md){.figure}
+
+![](ms-dos.md){.figure}
+
+![](troff.md){.figure}
+
+![](xerox-cedar.md){.figure}
+
 ![](xerox-cedar.md){.figure}
 
 ![](xerox-colab.md){.figure}
