@@ -1,5 +1,23 @@
 # Παράρτημα: Εικόνες
 
+![](apple-i-computer.md){.figure}
+
+![](blit-terminal.md){.figure}
+
+![](smalltalk-paint.md){.figure}
+
+![](dynabook-spacewar.md){.figure}
+
+![](dynabook-mockup.md){.figure}
+
+
+![](superpaint-rack.md){.figure}
+
+![](sam-editor.md){.figure}
+
+![](acme-editor.md){.figure}
+
+
 ![](hypercard-notes.md){.figure}
 
 ![](home-programming.md){.figure}
