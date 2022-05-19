@@ -1,5 +1,9 @@
 # Παράρτημα: Εικόνες
 
+![](xanadu-mockup.md){.figure}
+
+![](itv-buck.md){.figure}
+
 ![](lilith-desktop.md){.figure}
 
 ![](oberon.md){.figure}
