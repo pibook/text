@@ -1,5 +1,9 @@
 # Παράρτημα: Εικόνες
 
+![](xerox-star-desktop.md){.figure}
+
+![](paper-simulation.md){.figure}
+
 ![](xanadu-mockup.md){.figure}
 
 ![](itv-buck.md){.figure}
