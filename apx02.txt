@@ -1,5 +1,17 @@
 # Παράρτημα: Εικόνες
 
+![](xerox-cedar.md){.figure}
+
+![](xerox-colab.md){.figure}
+
+![](squeakos.md){.figure}
+
+![](canon-cat.md){.figure}
+
+![](atari-2600.md){.figure}
+
+![](x-windows-system.md){.figure}
+
 ![](apple-i-computer.md){.figure}
 
 ![](blit-terminal.md){.figure}
@@ -73,11 +85,15 @@
 
 ![](line-printer.md){.figure}
 
+![](xanadu-sketch.md){.figure}
 
 ![](igoefinger.md){.figure}
 
-![](rand-tablet.md){.figure}
+![](probes-items.md){.figure}
 
+![](probes-analysis.md){.figure}
+
+![](zoomable.md){.figure}
 
 ![](smalltalk-scrollbar-left.md){.figure}
 
