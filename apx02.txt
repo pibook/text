@@ -1,5 +1,9 @@
 # Παράρτημα: Εικόνες
 
+![](white-windows.md){.figure}
+
+![](interactive-whiteboard.md){.figure}
+
 ![](smalltalk-browser.md){.figure}
 
 ![](teletext.md){.figure}
