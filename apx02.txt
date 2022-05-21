@@ -1,5 +1,6 @@
 # Παράρτημα: Εικόνες
 
+
 ![](white-windows.md){.figure}
 
 ![](interactive-whiteboard.md){.figure}
