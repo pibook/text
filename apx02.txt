@@ -1,5 +1,17 @@
 # Παράρτημα: Εικόνες
 
+![](smalltalk-browser.md){.figure}
+
+![](teletext.md){.figure}
+
+![](html-app.md){.figure}
+
+![](animated-hand.md){.figure}
+
+![](dynabook-sketch.md){.figure}
+
+![](vpl-eye-phone.md){.figure}
+
 ![](xerox-star-desktop.md){.figure}
 
 ![](paper-simulation.md){.figure}
