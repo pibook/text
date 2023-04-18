@@ -207,6 +207,8 @@
 ^[fig:bbs]
 ^[fig:xerox-portholes]
 
+![](Edu.md){.Edu}
+
 ![](Edmodo.md){.figure}
 
 
